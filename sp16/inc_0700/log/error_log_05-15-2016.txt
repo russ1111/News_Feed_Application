@@ -1,0 +1,7 @@
+[May-15-2016 11:38:32] Undefined variable: Title in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 69
+[May-15-2016 11:43:22] Undefined variable: myID in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 27
+[May-15-2016 11:43:22] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 33
+[May-15-2016 11:43:33] Undefined variable: myID in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 27
+[May-15-2016 11:43:33] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 33
+[May-15-2016 11:44:48] Undefined variable: myID in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 27
+[May-15-2016 11:44:48] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 33

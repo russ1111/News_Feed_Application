@@ -1,0 +1,2 @@
+[May-12-2016 15:10:08] Undefined variable: Title in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 69
+[May-12-2016 16:02:38] Undefined variable: Title in /home/russch9/russcode.com/sp16/surveys/survey_view.php on line 69
